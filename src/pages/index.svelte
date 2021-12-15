@@ -24,13 +24,13 @@
 >
 
 <a href="https://www.edeka.de">
-  <img alt="Edeka" src="/pictures/Edeka.jpeg" width="100" /></a
+  <img alt="Edeka" src="/pictures/Edeka.jpeg" width="100px" /></a
 >
 
 <section class="bg-gray-100 dark:bg-gray-900 lg:py-12 lg:flex lg:justify-center">
   <div class="bg-white dark:bg-gray-800 lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
       <div class="lg:w-1/2">
-          <div class="h-1 bg-cover lg:rounded-lg lg:h-full" style="background-image:url('https://images.unsplash.com/photo-1593642532400-2682810df593?ixlib=rb-1.2.1&ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80')"></div>
+          <div class="bg-cover lg:rounded-lg lg:h-full" style="background-image:url('https://images.unsplash.com/photo-1574689685526-a9281777ee89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80')"></div>
       </div>
 
       <div class="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">
@@ -38,7 +38,7 @@
           <p class="mt-4 text-gray-600 dark:text-gray-400"><h1>Nehmen sie teil und gewinnen sie</h1>
             <p>
               Wir bei der ALLC sind sehr glaubwürdig. Aus diesem Grund haben wir ein
-              Gewinnspiel für Sie eingerichtet.<br />In diesem Gewinnspiel haben wir Ihnen
+              Gewinnspiel für sie eingerichtet.<br />In diesem Gewinnspiel haben wir ihnen
               eine Hand voll an Preisen ausgesucht:
             </p><br>
             <ul class="list-disc">
