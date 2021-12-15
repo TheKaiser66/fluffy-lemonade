@@ -37,6 +37,7 @@
     >
   </div>
 </div>
+<br>
 <div
   class="max-w-xs mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
 >
@@ -64,6 +65,7 @@
     >
   </div>
 </div>
+<br>
 <div
   class="max-w-xs mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
 >
@@ -91,6 +93,7 @@
     >
   </div>
 </div>
+<br>
 <div
   class="max-w-xs mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
 >
@@ -118,7 +121,7 @@
     >
   </div>
 </div>
-
+<br>
 <div
   class="max-w-xs mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
 >
@@ -150,7 +153,7 @@
 
 <style>
   img {
-    max-height: 50vh;
+    max-height: auto;
     width: auto;
   }
 </style>
