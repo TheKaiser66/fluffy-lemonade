@@ -1,4 +1,9 @@
-<h1>Shop</h1>
+<script>
+
+import Heading from "../components/text/Heading.svelte";
+
+</script>
+<Heading>Shop</Heading>
 <p><b>Hier finden sie die verfügbaren Produkte der ALLC. Beachten sie jedoch, dass unser Sortiment nicht vollständig auf dieser Seite angeboten wird, wir liefern nur kleine Flaschen unter 0.5l. </b></p>
 <br>
 <br>
