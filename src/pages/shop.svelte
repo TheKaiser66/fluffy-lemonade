@@ -21,13 +21,12 @@
       Eine erfrischende Wendung im Sortiment, perfekt für den Modernen Hipster.
     </p>
   </div>
-
   <img
     class="object-cover w-full h-48 mt-2"
     src="/pictures/250ml.jpeg"
     alt="250ml"
   />
-
+<br>
   <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
     <h1 class="text-lg font-bold text-white">14.99€</h1>
     <button
@@ -150,7 +149,6 @@
     >
   </div>
 </div>
-
 <style>
   img {
     max-height: auto;
