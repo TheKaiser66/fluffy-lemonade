@@ -1,4 +1,4 @@
-<nav class="bg-white shadow dark:bg-gray-800 mb-4">
+<nav class="bg-white w-full shadow dark:bg-gray-800 mb-4">
   <div
     class="container  px-6 py-3 mx-auto md:flex md:justify-between md:items-center"
   >

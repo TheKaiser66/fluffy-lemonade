@@ -7,21 +7,13 @@
 
 <!-- routify:options preload="proximity" -->
 
-<div class="wrapper">
-  <Navbar />
-  <main>
-    <slot />
-  </main>
-  <Footer />
-</div>
+  <div class="w-full place-items-center grid ">
+    <Navbar />
+    <main class="min-h-screen p-3 max-w-36 m-auto">
+      <slot />
+    </main>
+    <Footer />
+  </div>
 
-<style>
-  div.wrapper {
-    max-width: 100%;
-    overflow: hidden;
-  }
-  main {
-    min-height: 100vh;
-    padding: 0 8.5rem;
-  }
-</style>
+
+

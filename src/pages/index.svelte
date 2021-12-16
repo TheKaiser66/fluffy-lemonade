@@ -54,7 +54,7 @@
         Ihnen eine Hand voll an Preisen ausgesucht:
       </p>
       <br />
-      <ul class="list-disc">
+      <ul class="list-disc list-inside pl-2">
         <li>Ein Fahrrad ohne Sattel</li>
         <li>Ein halbvolles Glas Limo- oder Lamanade</li>
         <li>Ein Lama</li>

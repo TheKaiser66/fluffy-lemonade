@@ -17,4 +17,4 @@ import Paragraph from "../components/text/Paragraph.svelte"
   stoff der ihre gesundheit fördern wird.
 </Paragraph>
 <br /><br />Auf 100g enthällt unsere bio Lamanaden-Pulver-Mischung
-<ul class="list-disc"><li>20g Zucker</li><li>5g Zyanid</li><li>15g Zucker ersatz</li><li>50ml Lamamilch</li></ul>
+<ul class="list-disc list-inside pl-2"><li>20g Zucker</li><li>5g Zyanid</li><li>15g Zucker ersatz</li><li>50ml Lamamilch</li></ul>
