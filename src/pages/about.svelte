@@ -9,7 +9,7 @@
 
 	<div class="py-10 sm:max-w-xl sm:mx-auto">
 		<a href="/shopfake" class="font-display max-w-sm text-4xl font-bold leading-tight">
-			<span class="link link-underline link-underline-black text-white"> Hier finden Sie mehr über uns</span>
+			<span class="link link-underline link-underline-black dark:text-white"> Hier finden Sie mehr über uns</span>
 		</a>
 		</div>
 
