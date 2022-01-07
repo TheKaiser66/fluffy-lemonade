@@ -9,7 +9,7 @@
 
   <div class="w-full place-items-center grid ">
     <Navbar />
-    <main class="min-h-screen p-3 md:max-w-lg xl:max-w-xl m-auto">
+    <main class="min-h-screen p-3 md:max-w-lg xl:max-w-5xl m-auto">
       <slot />
     </main>
     <Footer />
