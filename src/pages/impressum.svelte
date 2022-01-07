@@ -15,7 +15,7 @@ Wir sind im Internet unter
 zu finden.
 <br />
 <br />
-<div class="impressum">
+<div class="impressum prose dark:prose:invert">
   <h1>Impressum</h1>
   <p>Angaben gemäß § 5 TMG</p>
   <p>
